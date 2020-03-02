@@ -59,6 +59,7 @@ ubah ke
 |Vicko Pratama Ibrahim  | 14116043 | https://github.com/vickokakuse21/14116043-PWL |
 |Muhammad Oktri Saputra | 14116114 | https://github.com/OktriSaputra/14116114-PWL |
 |Afifah Dwikirani | 14117105 | https://github.com/AfifahDk/14117105-PWL|
+|Hiskia Perdamen Pulungan|14117091|https://github.com/hiski46/PWL-ITERA|
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
