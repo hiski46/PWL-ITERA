@@ -1,0 +1,32 @@
+.malam {
+    background-color: #222;
+    color: #eee;
+}
+
+body {
+    background-color: #eee;
+    color: #222;
+}
+
+.siang {
+    background-color: #eee;
+    color: #222;
+}
+
+.flex {
+    display: flex;
+    background-color: thistle;
+    width: 75%;
+    margin-left: 25%;
+    justify-content: space-around;
+}
+
+.flex>a {
+    text-decoration: none;
+    padding: 10px;
+}
+
+.flex>a:hover {
+    background-color: slategrey;
+    color: snow;
+}
