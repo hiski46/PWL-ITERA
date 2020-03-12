@@ -1,0 +1,4 @@
+[build]
+    publish = "_site"
+    command = "npm --g install @11ty/eleventy && eleventy"
+    
